@@ -1,5 +1,5 @@
 {
-  "name": "http-proxy",
+  "name": "@manhydra/http-proxy",
   "version": "1.18.2",
   "repository": {
     "type": "git",
